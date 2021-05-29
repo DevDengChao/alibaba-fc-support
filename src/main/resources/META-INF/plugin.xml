@@ -1,7 +1,8 @@
-<idea-plugin>
+<!-- https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin url="https://github.com/DevDengChao/alibaba-fc-support">
     <id>dev.dengchao.intellij.plugins.alibaba-fc-support</id>
     <name>Alibaba FC Support</name>
-    <vendor email="2325690622@qq.com" url="https://github.com/devdengchao">DevDengChao</vendor>
+    <vendor email="2325690622@qq.com" url="https://github.com/DevDengChao">DevDengChao</vendor>
 
     <description><![CDATA[ This plugin should help you developing Alibaba FC functions.]]></description>
 
