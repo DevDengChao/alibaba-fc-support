@@ -14,3 +14,6 @@ This plugin should help you develop Alibaba FC functions.
 + [clion-cmakedocs](https://github.com/EddieRingle/clion-cmakedocs)
 + [ideolog](https://github.com/JetBrains/ideolog)
 + [Intellij sdk code samples](https://github.com/JetBrains/intellij-sdk-code-samples)
+
+### Other resources
++ [Alibaba's icon on iconfont.cn](https://www.iconfont.cn/user/detail?uid=6856114)
