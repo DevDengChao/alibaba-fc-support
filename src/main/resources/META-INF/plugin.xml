@@ -10,6 +10,8 @@
          on how to target different products -->
     <depends>com.intellij.modules.platform</depends>
 
+    <idea-version since-build="2021.1.1"/>
+
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
     </extensions>
