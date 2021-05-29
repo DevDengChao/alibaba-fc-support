@@ -6,6 +6,14 @@ plugins {
 group 'dev.dengchao.intellij.plugins'
 version '0.0.0-SNAPSHOT'
 
+java {
+    compileJava {
+        // https://blog.jetbrains.com/platform/2020/09/intellij-project-migrates-to-java-11/
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
 repositories {
     mavenCentral()
 }
